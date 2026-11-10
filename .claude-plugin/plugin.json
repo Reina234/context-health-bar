@@ -1,0 +1,5 @@
+{
+  "name": "context-health-bar",
+  "version": "0.1.0",
+  "description": "A game-style health bar above the prompt that tracks how much of your context window you have used."
+}

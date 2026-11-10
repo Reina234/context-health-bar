@@ -1,0 +1,5 @@
+{
+  "name": "reina-context-health-bar",
+  "owner": { "name": "Reina" },
+  "plugins": [{ "name": "context-health-bar", "source": "./" }]
+}
